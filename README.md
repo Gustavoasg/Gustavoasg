@@ -1,23 +1,46 @@
-## Hi there 👋 my name is Gustavo Segura
+👋 Hi, I’m Gustavo
 
-- 🔭 I am currently working as a Quality Control Engineer at MMVO (Mazda Mexico). In this role, I contribute to achieving the plant’s performance indicators, and in recent months I have gained experience in machining quality controls.
+Quality Control Engineer | Data Enthusiast | Dashboard Builder
 
-- 🌱 I’m currently learning tools like Python, SQL, Machine learning and Power BI to become a Data Scientist
+Currently working at Mazda México (MMVO) as a Quality Control Engineer, where I contribute to achieving plant KPIs and have gained hands-on experience in machining quality controls. I'm passionate about cars and data—and I thrive at the intersection of engineering precision and analytical insight.
 
-- 👯 I’m looking the opportunity to apply all my knowledge within an organization. My experience as a Quality Control Engineer, combined with my training in a Data Science Bootcamp, will help drive improvements in your company by:...
+🎯 Career Goals
 
-- 🤔 I’m looking for help with:
+I aim to combine my engineering background with data science to lead quality-driven teams and deliver measurable improvements.
 
-Analyzing indicators and data to support better decision-making
-Managing and optimizing available resources
-Auditing established processes to identify system gaps
+🚀 What I Do
+
+•  🧪 Quality Assurance & Process Auditing  
+Detecting system gaps and driving to continuous improvement.
+
+•  📊 Data Analysis & Visualization  
+Building dashboards that turn raw data into actionable insights.
+
+•  🧠 Machine Learning & Automation  
+Applying predictive models to enhance decision-making.
+
+## 🛠️ Tools & Technologies
+
+| Language | Data & Visualization | DevOps & Documentation |
+|----------|----------------------|-------------------------|
+| Python   | Pandas, Plotly, Streamlit | GitHub, VS Code, Render |
+| SQL      | Power BI, Excel      | Markdown, README.md     |
+| ML       | Scikit-learn, Jupyter | Git, GitHub Projects    |
+
+
+## 📂 Featured Projects
+
+### 🎨 Automotive Paint Quality Monitoring  
+Analyzed and tracked quality data from automotive painting processes to ensure compliance with standards and reduce defect rates. Developed visual reports to support decision-making and continuous improvement.
+
+### ✅ Final Quality Inspection Analytics  
+Built dashboards to visualize final inspection results, enabling faster root cause analysis and improved traceability across production lines.
 
 - 📫 How to reach me: 
 
-Cel: +52 464 196 0922
-Email: gustavo.asg@hotmail.es.
-LinkedIn: www.linkedin.com/in/gustavosegura1986
-GitHub: https://github.com/Gustavoasg
+📧 Email: gustavo.asg@hotmail.es
+📱 Phone: +52 464 196 0922
+💼 LinkedIn: linkedin.com/in/gustavosegura1986
 
 - ⚡ Fun fact: 
 I consider myself a car enthusiast
