@@ -1,8 +1,4 @@
-## Hi there 👋
-
-## Gustavoasg is a ✨ _special_ ✨ repository 
-
-Who I am:
+## Hi there 👋 my name is Gustavo Segura
 
 - 🔭 I am currently working as a Quality Control Engineer at MMVO (Mazda Mexico). In this role, I contribute to achieving the plant’s performance indicators, and in recent months I have gained experience in machining quality controls.
 
