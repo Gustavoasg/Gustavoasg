@@ -1,17 +1,14 @@
 👋 Hi, I’m Gustavo
 
-Quality Control Engineer | Data Enthusiast | Dashboard Builder
+Data Analyst | Data Scientist | KPI Analitycs
 
-Currently working at Mazda México (MMVO) as a Quality Control Engineer, where I contribute to achieving plant KPIs and have gained hands-on experience in machining quality controls. I'm passionate about cars and data—and I thrive at the intersection of engineering precision and analytical insight.
+Industrial Engineer with 10+ years of experience in quality engineering, statistical process control, and KPI management in automotive manufacturing (Mazda). Currently transitioning into Data Science with hands-on technical training in Python, SQL, and Machine Learning, and independent projects with verifiable results: 99.78% accuracy with actionable cluster segmentation for business decision-making.
 
 🎯 Career Goals
 
 I aim to combine my engineering background with data science to lead quality-driven teams and deliver measurable improvements.
 
 🚀 What I Do
-
-•  🧪 Quality Assurance & Process Auditing  
-Detecting system gaps and driving to continuous improvement.
 
 •  📊 Data Analysis & Visualization  
 Building dashboards that turn raw data into actionable insights.
@@ -30,11 +27,26 @@ Applying predictive models to enhance decision-making.
 
 ## 📂 Featured Projects
 
-### 🎨 Automotive Paint Quality Monitoring  
-Analyzed and tracked quality data from automotive painting processes to ensure compliance with standards and reduce defect rates. Developed visual reports to support decision-making and continuous improvement.
+### Racing Telemetry Analysis — ML Pipeline	2026
+#### Independent Project | Python, K-Means, SQLite, DuckDB | github.com/Gustavoasg/racing-telemetry-analysis
+✅ Context: End-to-end ML pipeline on 94,519 telemetry samples (73 raw signals) from a racing simulator; responsible for the full cycle: feature engineering, modeling, and SQL analysis.
+✅ Tools: Python, K-Means, SQLite, DuckDB, Pandas, Matplotlib, Seaborn.
+✅ Results: XGBoost classifier: 99.78% accuracy (F1 macro-0.998) to identify track section type. K-Means clustering segmented corners into Easy/Medium/Hard. SQL with window functions RANK, LAG/LEAD, NTILE for lap-comparison analysis.
+✅ Conclusion: The delta-time regression model yielded a negative R² with only 4 laps of data, the decision to discard it demonstrates technical judgment in assessing model viability when data is insufficient.
 
-### ✅ Final Quality Inspection Analytics  
-Built dashboards to visualize final inspection results, enabling faster root cause analysis and improved traceability across production lines.
+### Spotify Streaming Audit — Premium Playlist Optimization	2026
+#### Team Project (4 people) | Python, Scikit-learn, K-Means, DuckDB, Tableau | Triple Ten Hackathon
+✅ Context: Collaborative analytics framework for a 2,000-track catalog; responsible for the SQL data layer in DuckDB and the executive dashboard in Tableau.
+✅ Tools: Python, Scikit-learn, K-Means, DuckDB, Tableau, Pandas.
+✅ Results: K-Means clustering identified the Energetic cluster (834 tracks, 41.8% of catalog, average popularity 61.1) as the top premium tier candidate. Linear regression yielded R² 0.04, a finding that redirected the team toward segmentation.
+✅ Conclusion: Track popularity is not driven by acoustic attributes alone; segmentation by sound profile is the most actionable approach to recommend premium content.
+
+### Marketing Analytics Dashboard	2025
+#### Independent Project | Python, Streamlit, Plotly, Pandas | Deployed on Streamlit Cloud
+✅ Context: Executive BI dashboard built on a real Kaggle dataset (888 PPC campaigns, 2024); sole developer.
+✅ Tools: Python, Streamlit, Plotly, Pandas.
+✅ Results: 8 interactive KPI cards with filters by channel, platform, and campaign, deployed live on Streamlit Cloud.
+✅ Conclusion: Functional BI tool that replicates proprietary dashboard capabilities using open-source libraries.
 
 - 📫 How to reach me: 
 
